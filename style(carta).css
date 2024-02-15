@@ -1,0 +1,31 @@
+h1 {
+    text-align: left;
+    color: maroon;
+}
+
+
+div.fondo {
+    background-color: white;
+    width: 1570px;
+    height: 750px;
+}
+
+p {
+    color: brown;
+}
+
+ul.circulo {
+    list-style-type: circle;
+}
+
+ol.numero {
+    list-style-type: 1;
+}
+
+ol.romano {
+    list-style-type: upper-roman;
+}
+
+ol.minuscula {
+    list-style-type: lower-alpha;
+}
